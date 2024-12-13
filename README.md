@@ -11,5 +11,5 @@ Este repositório contém a implementação do SAP-1 (Simple As Possible 1), inc
 - Guilherme de Almeida
 - Gabriel Leal
 - Samuel Alves
-- 
+  
 ---
