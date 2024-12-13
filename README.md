@@ -9,7 +9,7 @@ Este repositório contém a implementação do SAP-1 (Simple As Possible 1), inc
 - Edson Pimenta Almeida
 - Gustavo Vinícius Elias
 - Guilherme de Almeida
-- Samuel Alves
 - Gabriel Leal
-
+- Samuel Alves
+- 
 ---
